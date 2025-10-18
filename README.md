@@ -65,6 +65,10 @@ GPXファイルは以下のアプリケーション・サービスで利用で�
 - 登山情報の更新
 - 翻訳の改善
 
+詳細なガイドラインについては [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
+
+For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## ライセンス (License)
 
 MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください
