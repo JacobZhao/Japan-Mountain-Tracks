@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YMAP_TOP100_MOUNTAIN_JAPAN"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>富士山 吉田ルート (Mt. Fuji Yoshida Route)</name>
+    <desc>富士山の最も人気のある吉田ルート（河口湖口）</desc>
+    <author>
+      <name>YMAP TOP100 MOUNTAIN JAPAN</name>
+    </author>
+    <time>2025-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Yoshida Route</name>
+    <desc>吉田ルート - 登り約6-7時間</desc>
+    <trkseg>
+      <!-- 富士スバルライン五合目 5th Station -->
+      <trkpt lat="35.3603" lon="138.7275">
+        <ele>2305</ele>
+        <name>富士スバルライン五合目 (Fuji Subaru Line 5th Station)</name>
+      </trkpt>
+      <!-- 六合目へ To 6th Station -->
+      <trkpt lat="35.3620" lon="138.7280">
+        <ele>2350</ele>
+      </trkpt>
+      <!-- 六合目 6th Station -->
+      <trkpt lat="35.3630" lon="138.7285">
+        <ele>2390</ele>
+        <name>六合目 (6th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3640" lon="138.7290">
+        <ele>2500</ele>
+      </trkpt>
+      <trkpt lat="35.3650" lon="138.7292">
+        <ele>2600</ele>
+      </trkpt>
+      <!-- 七合目 7th Station -->
+      <trkpt lat="35.3660" lon="138.7295">
+        <ele>2700</ele>
+        <name>七合目 (7th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3670" lon="138.7297">
+        <ele>2850</ele>
+      </trkpt>
+      <trkpt lat="35.3680" lon="138.7295">
+        <ele>3000</ele>
+      </trkpt>
+      <!-- 八合目 8th Station -->
+      <trkpt lat="35.3690" lon="138.7290">
+        <ele>3100</ele>
+        <name>八合目 (8th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3695" lon="138.7285">
+        <ele>3200</ele>
+      </trkpt>
+      <trkpt lat="35.3700" lon="138.7280">
+        <ele>3300</ele>
+      </trkpt>
+      <!-- 本八合目 Upper 8th Station -->
+      <trkpt lat="35.3705" lon="138.7278">
+        <ele>3400</ele>
+        <name>本八合目 (Upper 8th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3710" lon="138.7276">
+        <ele>3500</ele>
+      </trkpt>
+      <!-- 九合目 9th Station -->
+      <trkpt lat="35.3580" lon="138.7274">
+        <ele>3600</ele>
+        <name>九合目 (9th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3590" lon="138.7273">
+        <ele>3700</ele>
+      </trkpt>
+      <!-- 富士山頂 Summit -->
+      <trkpt lat="35.3606" lon="138.7274">
+        <ele>3776</ele>
+        <name>富士山頂 剣ヶ峰 (Mt. Fuji Summit - Kengamine)</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

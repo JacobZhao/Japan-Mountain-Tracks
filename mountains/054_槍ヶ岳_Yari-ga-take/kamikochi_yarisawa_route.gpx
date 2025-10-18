@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YMAP_TOP100_MOUNTAIN_JAPAN"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>槍ヶ岳 上高地～槍沢ルート (Yarigatake Kamikochi-Yarisawa Route)</name>
+    <desc>上高地から槍ヶ岳への最も人気のあるルート</desc>
+    <author>
+      <name>YMAP TOP100 MOUNTAIN JAPAN</name>
+    </author>
+    <time>2025-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Kamikochi-Yarisawa Route</name>
+    <desc>上高地～槍沢ルート - 2泊3日</desc>
+    <trkseg>
+      <!-- Day 1: 上高地～横尾 Kamikochi to Yokoo -->
+      <trkpt lat="36.2500" lon="137.6333">
+        <ele>1500</ele>
+        <name>上高地バスターミナル (Kamikochi Bus Terminal)</name>
+      </trkpt>
+      <trkpt lat="36.2567" lon="137.6400">
+        <ele>1510</ele>
+      </trkpt>
+      <!-- 明神 Myōjin -->
+      <trkpt lat="36.2667" lon="137.6467">
+        <ele>1530</ele>
+        <name>明神 (Myōjin)</name>
+      </trkpt>
+      <trkpt lat="36.2733" lon="137.6500">
+        <ele>1545</ele>
+      </trkpt>
+      <!-- 徳沢 Tokusawa -->
+      <trkpt lat="36.2800" lon="137.6533">
+        <ele>1560</ele>
+        <name>徳沢 (Tokusawa)</name>
+      </trkpt>
+      <trkpt lat="36.2867" lon="137.6567">
+        <ele>1590</ele>
+      </trkpt>
+      <!-- 横尾 Yokoo -->
+      <trkpt lat="36.2933" lon="137.6600">
+        <ele>1620</ele>
+        <name>横尾 (Yokoo)</name>
+      </trkpt>
+      
+      <!-- Day 2: 横尾～槍ヶ岳山荘 Yokoo to Yarigatake Sansō -->
+      <trkpt lat="36.3000" lon="137.6550">
+        <ele>1700</ele>
+      </trkpt>
+      <trkpt lat="36.3067" lon="137.6533">
+        <ele>1850</ele>
+      </trkpt>
+      <trkpt lat="36.3100" lon="137.6520">
+        <ele>2000</ele>
+      </trkpt>
+      <!-- 槍沢ロッヂ Yarisawa Lodge -->
+      <trkpt lat="36.3133" lon="137.6510">
+        <ele>2100</ele>
+        <name>槍沢ロッヂ (Yarisawa Lodge)</name>
+      </trkpt>
+      <trkpt lat="36.3167" lon="137.6505">
+        <ele>2300</ele>
+      </trkpt>
+      <trkpt lat="36.3200" lon="137.6500">
+        <ele>2500</ele>
+      </trkpt>
+      <trkpt lat="36.3233" lon="137.6498">
+        <ele>2700</ele>
+      </trkpt>
+      <!-- 殺生ヒュッテ Sesshō Hut -->
+      <trkpt lat="36.3267" lon="137.6495">
+        <ele>2880</ele>
+        <name>殺生ヒュッテ (Sesshō Hut)</name>
+      </trkpt>
+      <trkpt lat="36.3300" lon="137.6500">
+        <ele>3000</ele>
+      </trkpt>
+      <!-- 槍ヶ岳山荘 Yarigatake Sansō -->
+      <trkpt lat="36.3320" lon="137.6500">
+        <ele>3060</ele>
+        <name>槍ヶ岳山荘 (Yarigatake Sansō)</name>
+      </trkpt>
+      
+      <!-- Day 3: 山荘～山頂 Lodge to Summit -->
+      <trkpt lat="36.3325" lon="137.6500">
+        <ele>3100</ele>
+      </trkpt>
+      <trkpt lat="36.3330" lon="137.6500">
+        <ele>3140</ele>
+      </trkpt>
+      <!-- 槍ヶ岳山頂 Yarigatake Summit -->
+      <trkpt lat="36.3333" lon="137.6500">
+        <ele>3180</ele>
+        <name>槍ヶ岳山頂 (Yarigatake Summit)</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YMAP_TOP100_MOUNTAIN_JAPAN"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>利尻山 鴛泊コース (Rishiri-zan Oshidomari Course)</name>
+    <desc>利尻山の鴛泊登山口から山頂までのルート</desc>
+    <author>
+      <name>YMAP TOP100 MOUNTAIN JAPAN</name>
+    </author>
+    <time>2025-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Oshidomari Course</name>
+    <desc>鴛泊コース - 往復約10-12時間</desc>
+    <trkseg>
+      <!-- 鴛泊登山口 Trailhead -->
+      <trkpt lat="45.1650" lon="141.2300">
+        <ele>200</ele>
+        <name>鴛泊登山口 (Oshidomari Trailhead)</name>
+      </trkpt>
+      <!-- 登山道 Trail points -->
+      <trkpt lat="45.1670" lon="141.2310">
+        <ele>300</ele>
+      </trkpt>
+      <trkpt lat="45.1690" lon="141.2320">
+        <ele>400</ele>
+      </trkpt>
+      <!-- 甘露泉水 Water source -->
+      <trkpt lat="45.1710" lon="141.2330">
+        <ele>500</ele>
+        <name>甘露泉水 (Kanrosen-sui)</name>
+      </trkpt>
+      <trkpt lat="45.1730" lon="141.2335">
+        <ele>700</ele>
+      </trkpt>
+      <trkpt lat="45.1750" lon="141.2340">
+        <ele>900</ele>
+      </trkpt>
+      <trkpt lat="45.1770" lon="141.2340">
+        <ele>1100</ele>
+      </trkpt>
+      <!-- 長官山分岐 Junction -->
+      <trkpt lat="45.1790" lon="141.2335">
+        <ele>1200</ele>
+        <name>長官山分岐 (Chōkan-yama Junction)</name>
+      </trkpt>
+      <trkpt lat="45.1805" lon="141.2330">
+        <ele>1400</ele>
+      </trkpt>
+      <trkpt lat="45.1820" lon="141.2325">
+        <ele>1600</ele>
+      </trkpt>
+      <!-- 利尻山山頂 Summit -->
+      <trkpt lat="45.1833" lon="141.2333">
+        <ele>1721</ele>
+        <name>利尻山山頂 (Rishiri-zan Summit)</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

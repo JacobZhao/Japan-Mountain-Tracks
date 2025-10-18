@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YMAP_TOP100_MOUNTAIN_JAPAN"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>富士山 富士宮ルート (Mt. Fuji Fujinomiya Route)</name>
+    <desc>富士山の最短距離ルート・富士宮口</desc>
+    <author>
+      <name>YMAP TOP100 MOUNTAIN JAPAN</name>
+    </author>
+    <time>2025-01-01T00:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Fujinomiya Route</name>
+    <desc>富士宮ルート - 登り約5-7時間</desc>
+    <trkseg>
+      <!-- 富士宮口五合目 5th Station -->
+      <trkpt lat="35.3280" lon="138.7270">
+        <ele>2400</ele>
+        <name>富士宮口五合目 (Fujinomiya 5th Station)</name>
+      </trkpt>
+      <!-- 六合目 6th Station -->
+      <trkpt lat="35.3320" lon="138.7272">
+        <ele>2490</ele>
+        <name>六合目 (6th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3350" lon="138.7273">
+        <ele>2650</ele>
+      </trkpt>
+      <!-- 新七合目 New 7th Station -->
+      <trkpt lat="35.3380" lon="138.7274">
+        <ele>2780</ele>
+        <name>新七合目 (New 7th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3410" lon="138.7274">
+        <ele>2900</ele>
+      </trkpt>
+      <!-- 元祖七合目 Original 7th Station -->
+      <trkpt lat="35.3440" lon="138.7274">
+        <ele>3010</ele>
+        <name>元祖七合目 (Original 7th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3470" lon="138.7274">
+        <ele>3130</ele>
+      </trkpt>
+      <!-- 八合目 8th Station -->
+      <trkpt lat="35.3500" lon="138.7274">
+        <ele>3250</ele>
+        <name>八合目 (8th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3530" lon="138.7274">
+        <ele>3360</ele>
+      </trkpt>
+      <!-- 九合目 9th Station -->
+      <trkpt lat="35.3560" lon="138.7274">
+        <ele>3460</ele>
+        <name>九合目 (9th Station)</name>
+      </trkpt>
+      <trkpt lat="35.3585" lon="138.7274">
+        <ele>3600</ele>
+      </trkpt>
+      <!-- 富士山頂 Summit -->
+      <trkpt lat="35.3606" lon="138.7274">
+        <ele>3776</ele>
+        <name>富士山頂 剣ヶ峰 (Mt. Fuji Summit - Kengamine)</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
