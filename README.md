@@ -23,7 +23,7 @@ This repository is based on the YAMAP collection: https://yamap.com/mountains/fa
 
 ※ The YAMAP page is used as the reference for the list and links. Route details compiled here are provided as informational model courses; please consult original YAMAP pages, local authorities, and official trail guides before attempting any climb.
 
-このリポジトリは YAMAP のページ（https://yamap.com/mountains/famous/27504）を基にしています。ここにまとめたルート情報はあくまでモデルコースとしての参考情報です。実際に登山される際は、必ず YAMAP の個別山ページ、現地の登山案内、気象情報、装備を確認してください。
+このリポジトリは YAMAP の[ページ](https://yamap.com/mountains/famous/27504)を基にしています。ここにまとめたルート情報はあくまでモデルコースとしての参考情報です。実際に登山される際は、必ず YAMAP の個別山ページ、現地の登山案内、気象情報、装備を確認してください。
 
 ## Contributing / 貢献について
 
