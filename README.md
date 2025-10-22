@@ -1,10 +1,19 @@
-# YAMAP_TOP100_MOUNTAIN_JAPAN
+# Japan Mountain Tracks
 
 ## About / 概要
 
-This repository collects model courses (model routes) for the "日本百名山" (Nihon Hyakumeizan — 100 Famous Japanese Mountains). The list of mountains referenced is based on YAMAP's entry: https://yamap.com/mountains/famous/27504
+This repository collects model courses (model routes) for 
 
-このリポジトリは「日本百名山」に含まれる各山のモデルコース（モデルルート）をまとめたものです。参照元は YAMAP のページです: https://yamap.com/mountains/famous/27504
+
+1. the "日本百名山" (Nihon Hyakumeizan — 100 Famous Japanese Mountains). 
+2. the "都道府県最高峰" (Highest Peak in Each Prefecture).
+3. the "日本二百名山" (Nihon Nihyakumeizan — 200 Famous Japanese Mountains). 
+4. the "日本百高山" (Nihon Hyakutakeizan — 100 Tallest Japanese Mountains). 
+5. the "3000m峰" (3000m Peak — Mountains over 3000m in Japan). 
+
+The list of mountains referenced is based on YAMAP's entry: https://yamap.com/mountains/
+
+このリポジトリは「日本百名山」に含まれる各山のモデルコース（モデルルート）をまとめたものです。参照元は YAMAP のページです: https://yamap.com/mountains/
 
 ## What is 日本百名山?
 
@@ -19,11 +28,11 @@ This repository collects model courses (model routes) for the "日本百名山" 
 
 ## Source / 参照
 
-This repository is based on the YAMAP collection: https://yamap.com/mountains/famous/27504
+This repository is based on the YAMAP collection: https://yamap.com/mountains/
 
 ※ The YAMAP page is used as the reference for the list and links. Route details compiled here are provided as informational model courses; please consult original YAMAP pages, local authorities, and official trail guides before attempting any climb.
 
-このリポジトリは YAMAP のページ（https://yamap.com/mountains/famous/27504）を基にしています。ここにまとめたルート情報はあくまでモデルコースとしての参考情報です。実際に登山される際は、必ず YAMAP の個別山ページ、現地の登山案内、気象情報、装備を確認してください。
+このリポジトリは YAMAP のページ（https://yamap.com/mountains/)を基にしています。ここにまとめたルート情報はあくまでモデルコースとしての参考情報です。実際に登山される際は、必ず YAMAP の個別山ページ、現地の登山案内、気象情報、装備を確認してください。
 
 ## Contributing / 貢献について
 
@@ -33,8 +42,6 @@ Contributions are welcome. If you add or update model courses, please cite sourc
 
 ## License / ライセンス
 
-Please include a license file in this repository if you intend to allow reuse. If no license is present, assume "All rights reserved."  
-
-ライセンスを明示する場合は LICENSE ファイルを追加してください。ライセンスが無い場合は、全ての権利が保留されているものと見なされます。
+This repo is under MIT License
 
 ---
